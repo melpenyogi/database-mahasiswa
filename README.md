@@ -16,6 +16,7 @@ Aplikasi database yang digunakan sebagai mendata Data-Data Mahasiswa/i USTJ FIKO
 <br />
 <h2>Wireframe</h2>
 - Kunjung Situs : https://whimsical.com/database-mahasiswa-5Pp3g7kHDjzNL3jqZcpBbB
+https://whimsical.com/database-mahasiswa-5Pp3g7kHDjzNL3jqZcpBbB
 
 
 
