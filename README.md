@@ -25,7 +25,7 @@ Thanks By. Melpen 🙏🏿 🫡
 
 
 
-![Database-Mahasiswa (1)](https://github.com/user-attachments/assets/7484d1c3-ea16-45c7-9aef-5c06887bcbe9)
+![Database-Mahasiswa](https://github.com/user-attachments/assets/61bc0612-2af5-4b22-bca7-d9fb4e81f3fc)
 
 ![Database-Mahasiswa (1)](https://github.com/user-attachments/assets/6709280c-f430-4378-aa29-0d96ed399e0d)
 
